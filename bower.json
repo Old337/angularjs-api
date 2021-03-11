@@ -1,0 +1,14 @@
+{
+  "name": "front-end",
+  "authors": [
+    "lucasmarknet <lucas@marknet.com.br>"
+  ],
+  "description": "implementação em angularJS da api",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "angular": "^1.8.2"
+  }
+}
